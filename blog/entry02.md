@@ -1,7 +1,5 @@
 # SEP10 Freedom Project
-## Blog Examples
 
----
 
 # Entry 1: Gambling
 ##### 10/18/21
