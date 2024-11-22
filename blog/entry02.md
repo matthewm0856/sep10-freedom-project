@@ -1,8 +1,7 @@
 # SEP10 Freedom Project
 
 
-# Entry 1: Gambling
-##### 10/18/21
+# Gambling
 
 ## Why I chose gambling.
 
