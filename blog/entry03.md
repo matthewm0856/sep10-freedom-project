@@ -1,4 +1,4 @@
-# Environmental Government: New technology for plant maintenence
+# Environmental Government: New Technology For Plant Maintenence
 
 ## Content
 For my blog, I chose environmental government because I feel like helping all of our endangered plants and our protection from any dangerous plant. Here, I will be talking about technology that doesn't exist yet. 
