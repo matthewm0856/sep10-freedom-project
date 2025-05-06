@@ -9,7 +9,7 @@
 * `0017ff`
 
 ## Fonts
-* [TTitillium Web]([URL](https://fonts.google.com/specimen/Titillium+Web))
+* [TTitillium Web]((https://fonts.google.com/specimen/Titillium+Web))
 
 ## Timeline
 
