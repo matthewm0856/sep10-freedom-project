@@ -6,7 +6,8 @@
 
 ## Colors
 * `#ABC123`
-* `0017ff`
+* `#0017ff`
+* `#81f691`
 
 ## Fonts
 * [TTitillium Web]((https://fonts.google.com/specimen/Titillium+Web))
