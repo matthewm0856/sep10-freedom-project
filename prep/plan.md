@@ -6,9 +6,10 @@
 
 ## Colors
 * `#ABC123`
+* `0017ff`
 
 ## Fonts
-* [Text](URL)
+* [TTitillium Web]([URL](https://fonts.google.com/specimen/Titillium+Web))
 
 ## Timeline
 
