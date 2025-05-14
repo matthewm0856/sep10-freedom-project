@@ -11,26 +11,38 @@
             /* CSS */
 
 
-            nav {
-      background-color: #9FA6B2;
-      padding: 15px;
-    }
+            body, ul {
+  margin: 0;
+  padding: 0;
+}
 
-    .navbar {
-      display: flex;
-      justify-content: center; /* Center links horizontally */
-      gap: 20px;
-    }
+/* Navbar styling */
+nav {
+  background-color: #333; /* Dark background color */
+  overflow: hidden; /* Ensure links are inside the navbar */
+}
 
-    .navbar a {
-      color: white;
-      text-decoration: none;
-      font-size: 18px;
-    }
+nav ul {
+  list-style-type: none; /* Remove bullet points from the list */
+  display: flex; /* Make the navbar items horizontal */
+  justify-content: center; /* Center the navbar items */
+}
 
-    .navbar a:hover {
-      color: #54B4D3;
-    }
+nav ul li {
+  padding: 14px 20px; /* Add space around each link */
+}
+
+nav ul li a {
+  text-decoration: none; /* Remove underline */
+  color: white; /* Text color */
+  font-size: 16px; /* Set the font size */
+  display: block;
+  text-align: center;
+}
+
+nav ul li a:hover {
+  background-color: #575757; /* Darker background on hover */
+}
 
 
 
@@ -69,14 +81,27 @@
 <body>
 
   <!-- Navbar -->
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple Navbar</title>
+  <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS -->
+</head>
+<body>
+
+  <!-- Navbar -->
   <nav>
-    <div class="navbar">
-      <a href="#home">Home</a>
-      <a href="#about">About</a>
-      <a href="#services">Services</a>
-      <a href="#contact">Contact</a>
-    </div>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#About">About</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#Contact">Contact</a></li>
+    </ul>
   </nav>
+
+</body>
+</html>
 
   <!-- Centered Heading Below Navbar -->
   <div class="heading-container">
@@ -91,8 +116,8 @@
 
 <body>
   <p>
-    <h4>About us</h4>
-    In the future, we plan to maintain our environment by implementing new technology that could save many plants in the world
+    <h4 id="About"> About us</h4>
+    In the future, we plan to maintain our environment by implementing new technology that could save many plants in the world. Our goal is to make our planet healthier, not just cleaning up but keeping our plants healthy. Plants are also living things like us. We can clean ourselves so why do clean our plants. If we want our plants to survive, we have to keep them clean so that's why I'm planning to make a whole newer technology that can make that possble.
   </p>
 </body>
 
@@ -149,6 +174,11 @@
     </div>
   </div>
   </p>
+
+  <div class="container-xxl">
+    <h1 id="Contact">Contact </h1>
+    <h4>Email me at: matthewm652@nycstudents.net</h4>
+  </div>
 
         </style>
 
