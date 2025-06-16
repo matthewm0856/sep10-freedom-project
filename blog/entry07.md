@@ -4,8 +4,10 @@
 Unfortunately, I couldn't make it to the expo but I have a lot to take from my presentation. While I was presenting, I was a little shy but knowing that this is my first time sharing my Ideas to the whole class, I felt more confident to share my Ideas. My presentation went well, sharing all the stuff I plan for the future and I explained using my tool, my website, my process and how I am going to find new Ideas.
 
 ## Sources:
+https://docs.google.com/presentation/d/1K2Crq9o5OLHoZM4B_e2vT65iKdSfWw8Zhe2A42tYpao/edit?slide=id.g35a5fd9013f_0_5#slide=id.g35a5fd9013f_0_5
+https://github.com/matthewm0856/sep10-freedom-project/tree/main/prep
 [Previous](entry06.md)
-[Previous]([entry06.md](https://docs.google.com/presentation/d/1K2Crq9o5OLHoZM4B_e2vT65iKdSfWw8Zhe2A42tYpao/edit?slide=id.g35a5fd9013f_0_5#slide=id.g35a5fd9013f_0_5))
+[Previous]([entry06.md])
 
 
 
