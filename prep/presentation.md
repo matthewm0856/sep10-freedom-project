@@ -1,16 +1,16 @@
 # Presentation Plan
 
 ## Hook
-* 
+* What if you could magically save plants?
 
 ## Product
-* 
+* https://matthewm0856.github.io/sep10-freedom-project/
 
 ## Process
-* 
+* I made up a few inventions that could help preserve plants and life further. The inventions I made could regulate plants even during climate change. All the information is on my website on the next page
 
 ## Conclusion
-* 
+* In summary, this project gave me an Idea to save our environment. If it wasn’t for this project, I wouldn’t have any ideas or innovations for the future. I feel like this project could boost my grade up since my grades in this class are slim and this project was easy and I feel like this project could boost my grade up. Now, I feel like I could do something for the world.
 
 <!-- EXAMPLE
 
